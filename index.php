@@ -70,9 +70,16 @@
 				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 					<!-- Indicators -->
 					<ol class="carousel-indicators">
-						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+						<li data-target="#elsie-creamland-cow" data-slide-to="0" class="active"></li>
+						<li data-target="#darth" data-slide-to="1"></li>
+						<li data-target="#pirate-ship" data-slide-to="2"></li>
+						<li data-target="#angry-bird" data-slide-to="3"></li>
+						<li data-target="#joelly-bee" data-slide-to="4"></li>
+						<li data-target="#cosmos1" data-slide-to="5"></li>
+						<li data-target="#master-yoda" data-slide-to="6"></li>
+						<li data-target="#mr-mariachi" data-slide-to="7"></li>
+						<li data-target="#sunny-boy" data-slide-to="8"></li>
+						<li data-target="#beagle-maximus" data-slide-to="9"></li>
 					</ol>
 
 					<!-- Wrapper for slides -->
@@ -80,7 +87,9 @@
 						<div class="item active">
 							<img src="..." alt="...">
 							<div class="carousel-caption">
-								...
+								<h3>Elsie the Creamland Cow</h3>
+								<p>Dale Ritchie</p>
+								<p>Golden, British Columbia - Canada</p>
 							</div>
 						</div>
 						<div class="item">
