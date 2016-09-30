@@ -26,6 +26,10 @@ body {
 	margin-bottom: 15px;
 }
 
+.navbar-inverse .navbar-brand {
+	color: #f6f861;
+}
+
 /**********************************************
 * Body Styles
 /*********************************************/
