@@ -20,7 +20,13 @@ body {
 
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
-	background-image: none;
+	background: none;
 	background-color: #4c8bff;
 	color: white;
+	margin-bottom: 15px;
 }
+
+/**********************************************
+* Body Styles
+/*********************************************/
+
