@@ -25,5 +25,6 @@ body {
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
 	background-image: none;
-	background-color: #2F394A;
+	background-color: #4c8bff;
+	color: white;
 }
