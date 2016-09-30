@@ -191,6 +191,13 @@
 		</div>
 		<div class="container">
 			<div class="row">
+				<div class="well">
+					<h1>Ballooning Questions and Answers</h1>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
 				<table class="table table-striped">
 					<tr>
 						<td>
