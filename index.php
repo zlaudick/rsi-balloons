@@ -95,12 +95,77 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="..." alt="...">
+							<img src="/public_html/images/Darth_Vader_Balloon_Shopped.jpg" alt="darth vader">
 							<div class="carousel-caption">
-								...
+								<h3>Darth Vader</h3>
+								<p>Benoit Lambert</p>
+								<p>Court St. Etinne - Belgium</p>
 							</div>
 						</div>
-						...
+						<div class="item">
+							<img src="..." alt="pirate ship">
+							<div class="carousel-caption">
+								<h3>Pirate Ship</h3>
+								<p>Andrew Holly</p>
+								<p>Brisol, Gloucestershire - Great Britian</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="/public_html/images/Angry_Bird_Balloon_Shopped.jpg" alt="Angry Bird">
+							<div class="carousel-caption">
+								<h3>Angry Bird</h3>
+								<p>Benedict Savio</p>
+								<p>Albuquerque, NM - United States</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="/public_html/images/Joelly_Bee_Balloon_Shopped.jpg" alt="Joelly Bee">
+							<div class="carousel-caption">
+								<h3>Joelly Bee</h3>
+								<p>Bob Romaneschi</p>
+								<p>Chandler, AZ - United States</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="..." alt="Cosmos1">
+							<div class="carousel-caption">
+								<h3>Cosmos1</h3>
+								<p>Jerry Holmes</p>
+								<p>Fort Worth, TX - United States</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="..." alt="Master Yoda">
+							<div class="carousel-caption">
+								<h3>Master Yoda</h3>
+								<p>Benoit Lambert</p>
+								<p>Court St. Etinne - Belgium</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="..." alt="Mr. Mariachi">
+							<div class="carousel-caption">
+								<h3>Mr. Mariachi</h3>
+								<p>Mariel Merino Escamilla</p>
+								<p>Albuquerque, NM - United States</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="..." alt="sunny boy">
+							<div class="carousel-caption">
+								<h3>Sunny Boy</h3>
+								<p>Wayne Fortney</p>
+								<p>Kingsport, TN - United States</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="/public_html/images/Beagle_Maximus_Balloon_Shopped.jpg" alt="Beagle Maximus">
+							<div class="carousel-caption">
+								<h3>Beagle Maximus</h3>
+								<p>James Cassell</p>
+								<p>Albuquerque, NM - United States</p>
+							</div>
+						</div>
 					</div>
 
 					<!-- Controls -->
