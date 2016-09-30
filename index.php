@@ -96,7 +96,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="..." alt="pirate ship">
+							<img src="/public_html/images/Pirate_Ship_Balloon_Shopped.jpg" alt="pirate ship">
 							<div class="carousel-caption">
 								<h3>Pirate Ship</h3>
 								<p>Andrew Holly</p>
@@ -120,7 +120,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="..." alt="Cosmos1">
+							<img src="/public_html/images/Cosmos1_Balloon_Shopped.jpg" alt="Cosmos1">
 							<div class="carousel-caption">
 								<h3>Cosmos1</h3>
 								<p>Jerry Holmes</p>
@@ -128,7 +128,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="..." alt="Master Yoda">
+							<img src="/public_html/images/Master_Yoda_Balloon_Shopped.jpg" alt="Master Yoda">
 							<div class="carousel-caption">
 								<h3>Master Yoda</h3>
 								<p>Benoit Lambert</p>
@@ -136,7 +136,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="..." alt="Mr. Mariachi">
+							<img src="/public_html/images/Mariachi_Balloon_Shopped.jpg" alt="Mr. Mariachi">
 							<div class="carousel-caption">
 								<h3>Mr. Mariachi</h3>
 								<p>Mariel Merino Escamilla</p>
@@ -144,7 +144,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="..." alt="sunny boy">
+							<img src="/public_html/images/Sunny_Boy_Balloon_Shopped.jpg" alt="sunny boy">
 							<div class="carousel-caption">
 								<h3>Sunny Boy</h3>
 								<p>Wayne Fortney</p>
