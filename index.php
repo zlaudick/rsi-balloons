@@ -76,7 +76,7 @@
 					</ol>
 
 					<!-- Wrapper for slides -->
-					<div class="carousel-inner" role="listbox">
+					<div class="carousel-inner" role="listbox" data-pause="hover">
 						<div class="item active">
 							<div class="image">
 								<img src="/public_html/images/Creamland_Cow_Balloon_Shopped.jpg" alt="elsie the creamland cow" class="img-responsive center-block">
