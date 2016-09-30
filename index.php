@@ -45,23 +45,13 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">Balloons</a>
+							<a class="navbar-brand" href="#faq">Balloons</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#">FAQs</a></li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Moar Links <span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="#">Action</a></li>
-										<li><a href="#">Another action</a></li>
-										<li><a href="#">Something else here</a></li>
-										<li role="separator" class="divider"></li>
-										<li><a href="#">Separated link</a></li>
-									</ul>
-								</li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 
@@ -184,7 +174,7 @@
 			</div>
 		</div>
 		<div class="container">
-			<div class="row">
+			<div class="row" id="faq">
 				<p>How long does it take to make a special shapes balloon?</p>
 				<p class="hid shw">According to one manufacturer (Lindstrand Balloons USA) it takes 14-20 weeks after the design has been approved.</p>
 				<button type="button" class="toggle-btn">Answer</button>
