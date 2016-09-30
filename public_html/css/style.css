@@ -8,7 +8,7 @@
 /*********************************************/
 
 body {
-	background-image: url("../images/AlbuquerqueBackgroundJPEG.jpg");
+	background: url("../images/AlbuquerqueBackgroundJPEG.jpg") no-repeat center centers;
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: 'Denk One', sans-serif;
