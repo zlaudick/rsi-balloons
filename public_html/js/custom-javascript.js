@@ -4,7 +4,7 @@
 $(document).ready(function(){
 	$(".hid").hide();
 	$(".toggle-btn").click(function(){
-		$(".shw, .look").slideToggle();
+		$(".shw").slideToggle();
 		$(".toggle-btn").click(function(){
 			$(".look").slideToggle();
 		});
