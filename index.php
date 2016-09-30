@@ -25,6 +25,9 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<!--		custom JS-->
+		<script src="js/custom-javascript.js"></script>
 		<title>Balloons</title>
 	</head>
 	<body>
@@ -178,6 +181,31 @@
 						<span class="sr-only">Next</span>
 					</a>
 				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<p>How long does it take to make a special shapes balloon?</p>
+				<p class="hid shw">According to one manufacturer (Lindstrand Balloons USA) it takes 14-20 weeks after the design has been approved.</p>
+				<button type="button" class="toggle-btn">Answer</button>
+				<p>What do you have to do to be a pilot?</p>
+				<p class="hid look">In the United States, a pilot of a hot air balloon must have a pilot certificate from the Federal Aviation Administration and it must carry the rating of "Lighter-than-air free balloon."</p>
+				<button type="button" class="toggle-btn">Answer</button>
+				<p>What's the longest hot air balloon flight?</p>
+				<p class="hid look">On January 15, 1991, the Virgin Pacific Flyer balloon completed the longest flight in a hot air balloon when Per Lindstrand and Richard Branson flew 7,671.91 km (4,767.10 mi) from Japan to Northern Canada.
+				</p>
+				<button type="button" class="toggle-btn">Answer</button>
+				<p>What’s the highest flight?</p>
+				<p class="hid look">On November 26, 2005 Vijaypat Singhania set the world altitude record for highest hot air balloon flight, reaching 21,027 m (68,986 ft).
+				</p>
+				<button type="button" class="toggle-btn">Answer</button>
+				<p>Why is ABQ such a good place for ballooning?</p>
+				<p class="hid shw">Wind currents and air temperature are key to the successful flying of hot air balloons. Albuquerque has the perfect combination of these conditions.
+				</p>
+				<button type="button" class="toggle-btn">Answer</button>
+				<p>Explain the ABQ box?</p>
+				<p class="hid shw">The Albuquerque “box” is a set of very predictable wind patterns that can be used to navigate balloons. At low elevations the winds tend to be southerly, but at higher elevations they tend to be northerly. Balloonists do not have a way to steer their hot air balloons but they can.use these “box” winds to move away from the field and back again.</p>
+				<button type="button" class="toggle-btn">Answer</button>
 			</div>
 		</div>
 	</body>
