@@ -6,10 +6,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+				integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
 		<!-- Custom CSS Goes HERE -->
 
@@ -24,7 +26,9 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+				  crossorigin="anonymous"></script>
 
 		<!-- custom js -->
 		<script src="/public_html/js/custom-javascript.js"></script>
@@ -39,19 +43,31 @@
 					<nav class="navbar navbar-inverse">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#faq">Balloons</a>
+							<a class="navbar-brand" href="#">Balloons</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#">FAQs</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+										aria-expanded="false">Moar Links <span class="caret"></span></a>
+									<ul class="dropdown-menu">
+										<li><a href="#">Action</a></li>
+										<li><a href="#">Another action</a></li>
+										<li><a href="#">Something else here</a></li>
+										<li role="separator" class="divider"></li>
+										<li><a href="#">Separated link</a></li>
+									</ul>
+								</li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 
@@ -76,10 +92,10 @@
 					</ol>
 
 					<!-- Wrapper for slides -->
-					<div class="carousel-inner" role="listbox" data-pause="hover">
+					<div class="carousel-inner" role="listbox">
 						<div class="item active">
 							<div class="image">
-								<img src="/public_html/images/Creamland_Cow_Balloon_Shopped.jpg" alt="elsie the creamland cow" class="img-responsive center-block">
+								<img src="/public_html/images/Creamland_Cow_Balloon_Shopped.jpg" alt="elsie the creamland cow">
 							</div>
 							<div class="carousel-caption">
 								<h3>Elsie the Creamland Cow</h3>
@@ -88,7 +104,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Darth_Vader_Balloon_Shopped.jpg" alt="darth vader" class="img-responsive center-block">
+							<img src="/public_html/images/Darth_Vader_Balloon_Shopped.jpg" alt="darth vader">
 							<div class="carousel-caption">
 								<h3>Darth Vader</h3>
 								<p>Benoit Lambert</p>
@@ -96,7 +112,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Pirate_Ship_Balloon_Shopped.jpg" alt="pirate ship" class="img-responsive center-block">
+							<img src="..." alt="pirate ship">
 							<div class="carousel-caption">
 								<h3>Pirate Ship</h3>
 								<p>Andrew Holly</p>
@@ -104,7 +120,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Angry_Bird_Balloon_Shopped.jpg" alt="Angry Bird" class="img-responsive center-block">
+							<img src="/public_html/images/Angry_Bird_Balloon_Shopped.jpg" alt="Angry Bird">
 							<div class="carousel-caption">
 								<h3>Angry Bird</h3>
 								<p>Benedict Savio</p>
@@ -112,7 +128,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Joelly_Bee_Balloon_Shopped.jpg" alt="Joelly Bee" class="img-responsive center-block">
+							<img src="/public_html/images/Joelly_Bee_Balloon_Shopped.jpg" alt="Joelly Bee">
 							<div class="carousel-caption">
 								<h3>Joelly Bee</h3>
 								<p>Bob Romaneschi</p>
@@ -120,7 +136,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Cosmos1_Balloon_Shopped.jpg" alt="Cosmos1" class="img-responsive center-block">
+							<img src="..." alt="Cosmos1">
 							<div class="carousel-caption">
 								<h3>Cosmos1</h3>
 								<p>Jerry Holmes</p>
@@ -128,7 +144,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Master_Yoda_Balloon_Shopped.jpg" alt="Master Yoda" class="img-responsive center-block">
+							<img src="..." alt="Master Yoda">
 							<div class="carousel-caption">
 								<h3>Master Yoda</h3>
 								<p>Benoit Lambert</p>
@@ -136,7 +152,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Mariachi_Balloon_Shopped.jpg" alt="Mr. Mariachi" class="img-responsive center-block">
+							<img src="..." alt="Mr. Mariachi">
 							<div class="carousel-caption">
 								<h3>Mr. Mariachi</h3>
 								<p>Mariel Merino Escamilla</p>
@@ -144,7 +160,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Sunny_Boy_Balloon_Shopped.jpg" alt="sunny boy" class="img-responsive center-block">
+							<img src="..." alt="sunny boy">
 							<div class="carousel-caption">
 								<h3>Sunny Boy</h3>
 								<p>Wayne Fortney</p>
@@ -152,7 +168,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Beagle_Maximus_Balloon_Shopped.jpg" alt="Beagle Maximus" class="img-responsive center-block">
+							<img src="/public_html/images/Beagle_Maximus_Balloon_Shopped.jpg" alt="Beagle Maximus">
 							<div class="carousel-caption">
 								<h3>Beagle Maximus</h3>
 								<p>James Cassell</p>
@@ -174,28 +190,88 @@
 			</div>
 		</div>
 		<div class="container">
-			<div class="row" id="faq">
-				<p>How long does it take to make a special shapes balloon?</p>
-				<p class="hid shw">According to one manufacturer (Lindstrand Balloons USA) it takes 14-20 weeks after the design has been approved.</p>
-				<button type="button" class="toggle-btn">Answer</button>
-				<p>What do you have to do to be a pilot?</p>
-				<p class="hid look">In the United States, a pilot of a hot air balloon must have a pilot certificate from the Federal Aviation Administration and it must carry the rating of "Lighter-than-air free balloon."</p>
-				<button type="button" class="toggle-btn">Answer</button>
-				<p>What's the longest hot air balloon flight?</p>
-				<p class="hid look">On January 15, 1991, the Virgin Pacific Flyer balloon completed the longest flight in a hot air balloon when Per Lindstrand and Richard Branson flew 7,671.91 km (4,767.10 mi) from Japan to Northern Canada.
-				</p>
-				<button type="button" class="toggle-btn">Answer</button>
-				<p>What’s the highest flight?</p>
-				<p class="hid look">On November 26, 2005 Vijaypat Singhania set the world altitude record for highest hot air balloon flight, reaching 21,027 m (68,986 ft).
-				</p>
-				<button type="button" class="toggle-btn">Answer</button>
-				<p>Why is ABQ such a good place for ballooning?</p>
-				<p class="hid shw">Wind currents and air temperature are key to the successful flying of hot air balloons. Albuquerque has the perfect combination of these conditions.
-				</p>
-				<button type="button" class="toggle-btn">Answer</button>
-				<p>Explain the ABQ box?</p>
-				<p class="hid shw">The Albuquerque “box” is a set of very predictable wind patterns that can be used to navigate balloons. At low elevations the winds tend to be southerly, but at higher elevations they tend to be northerly. Balloonists do not have a way to steer their hot air balloons but they can.use these “box” winds to move away from the field and back again.</p>
-				<button type="button" class="toggle-btn">Answer</button>
+			<div class="row">
+				<table class="table table-striped">
+					<tr>
+						<td>
+							Q: How long does it take to make a special shapes balloon?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: According to one manufacturer (Lindstrand Balloons USA) it takes 14-20 weeks after the design has
+							been approved.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Q: What do you have to do to be a pilot?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: In the United States, a pilot of a hot air balloon must have a pilot certificate from the Federal
+							Aviation Administration and it must carry the rating of "Lighter-than-air free balloon."
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Q: What's the longest hot air balloon flight?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: On January 15, 1991, the Virgin Pacific Flyer balloon completed the longest flight in a hot air
+							balloon when Per Lindstrand and Richard Branson flew 7,671.91 km (4,767.10 mi) from Japan to
+							Northern Canada.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Q: What’s the highest flight?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: On November 26, 2005 Vijaypat Singhania set the world altitude record for highest hot air balloon
+							flight, reaching 21,027 m (68,986 ft).
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Q: What's the largest balloon ever created?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: With a volume of 74 thousand cubic meters (2.6 million cubic feet), the envelope of the Virgin Pacific Flyer balloon was the largest ever built for a hot air craft.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Q: Why is ABQ such a good place for ballooning?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: Wind currents and air temperature are key to the successful flying of hot air balloons. Albuquerque
+							has the perfect combination of these conditions.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Q: Explain the ABQ box?
+						</td>
+					</tr>
+					<tr>
+						<td>
+							A: The Albuquerque “box” is a set of very predictable wind patterns that can be used to navigate
+							balloons. At low elevations the winds tend to be southerly, but at higher elevations they tend to
+							be northerly. Balloonists do not have a way to steer their hot air balloons but they can.use these
+							“box” winds to move away from the field and back again.
+						</td>
+					</tr>
+				</table>
 			</div>
 		</div>
 	</body>
