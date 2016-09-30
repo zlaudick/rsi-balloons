@@ -79,7 +79,7 @@
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
 							<div class="image">
-								<img src="/public_html/images/Creamland_Cow_Balloon_Shopped.jpg" alt="elsie the creamland cow">
+								<img src="/public_html/images/Creamland_Cow_Balloon_Shopped.jpg" alt="elsie the creamland cow" class="img-responsive center-block">
 							</div>
 							<div class="carousel-caption">
 								<h3>Elsie the Creamland Cow</h3>
@@ -88,7 +88,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Darth_Vader_Balloon_Shopped.jpg" alt="darth vader">
+							<img src="/public_html/images/Darth_Vader_Balloon_Shopped.jpg" alt="darth vader" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Darth Vader</h3>
 								<p>Benoit Lambert</p>
@@ -96,7 +96,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Pirate_Ship_Balloon_Shopped.jpg" alt="pirate ship">
+							<img src="/public_html/images/Pirate_Ship_Balloon_Shopped.jpg" alt="pirate ship" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Pirate Ship</h3>
 								<p>Andrew Holly</p>
@@ -104,7 +104,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Angry_Bird_Balloon_Shopped.jpg" alt="Angry Bird">
+							<img src="/public_html/images/Angry_Bird_Balloon_Shopped.jpg" alt="Angry Bird" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Angry Bird</h3>
 								<p>Benedict Savio</p>
@@ -112,7 +112,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Joelly_Bee_Balloon_Shopped.jpg" alt="Joelly Bee">
+							<img src="/public_html/images/Joelly_Bee_Balloon_Shopped.jpg" alt="Joelly Bee" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Joelly Bee</h3>
 								<p>Bob Romaneschi</p>
@@ -120,7 +120,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Cosmos1_Balloon_Shopped.jpg" alt="Cosmos1">
+							<img src="/public_html/images/Cosmos1_Balloon_Shopped.jpg" alt="Cosmos1" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Cosmos1</h3>
 								<p>Jerry Holmes</p>
@@ -128,7 +128,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Master_Yoda_Balloon_Shopped.jpg" alt="Master Yoda">
+							<img src="/public_html/images/Master_Yoda_Balloon_Shopped.jpg" alt="Master Yoda" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Master Yoda</h3>
 								<p>Benoit Lambert</p>
@@ -136,7 +136,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Mariachi_Balloon_Shopped.jpg" alt="Mr. Mariachi">
+							<img src="/public_html/images/Mariachi_Balloon_Shopped.jpg" alt="Mr. Mariachi" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Mr. Mariachi</h3>
 								<p>Mariel Merino Escamilla</p>
@@ -144,7 +144,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Sunny_Boy_Balloon_Shopped.jpg" alt="sunny boy">
+							<img src="/public_html/images/Sunny_Boy_Balloon_Shopped.jpg" alt="sunny boy" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Sunny Boy</h3>
 								<p>Wayne Fortney</p>
@@ -152,7 +152,7 @@
 							</div>
 						</div>
 						<div class="item">
-							<img src="/public_html/images/Beagle_Maximus_Balloon_Shopped.jpg" alt="Beagle Maximus">
+							<img src="/public_html/images/Beagle_Maximus_Balloon_Shopped.jpg" alt="Beagle Maximus" class="img-responsive center-block">
 							<div class="carousel-caption">
 								<h3>Beagle Maximus</h3>
 								<p>James Cassell</p>
