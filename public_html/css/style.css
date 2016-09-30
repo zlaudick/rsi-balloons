@@ -1,0 +1,13 @@
+/**********************************************
+* Custom CSS for RSI Balloons Hackathon
+* @author devon@devonbeetsdesign.com
+/*********************************************/
+
+/**********************************************
+* Global Styles
+/*********************************************/
+html,
+body {
+	background: url("../images/AlbuquerqueBackgroundJPEG.jpg");
+	background-size: cover;
+}
