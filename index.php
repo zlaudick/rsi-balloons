@@ -85,7 +85,9 @@
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
-							<img src="..." alt="...">
+							<div class="image">
+								<img src="/public_html/images/Creamland_Cow_Balloon_Shopped.jpg" alt="elsie the creamland cow">
+							</div>
 							<div class="carousel-caption">
 								<h3>Elsie the Creamland Cow</h3>
 								<p>Dale Ritchie</p>
