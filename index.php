@@ -40,7 +40,7 @@
 				<div class="col-md-12">
 
 					<!-- begin navbar -->
-					<nav class="navbar navbar-inverse">
+					<nav class="navbar navbar-inverse navbar-fixed-top">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"

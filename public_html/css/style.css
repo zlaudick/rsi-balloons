@@ -8,7 +8,7 @@
 /*********************************************/
 
 body {
-	background: url("../images/AlbuquerqueBackgroundJPEG.jpg") no-repeat center centers;
+	background: url("../images/AlbuquerqueBackgroundJPEG.jpg") no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: 'Denk One', sans-serif;
@@ -17,10 +17,6 @@ body {
 /**********************************************
 * Header and Navbar Styles
 /*********************************************/
-/* removes the margin-bottom that Bootstrap sets by default */
-.navbar {
-	margin-bottom: 0;
-}
 
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
