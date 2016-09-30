@@ -8,8 +8,10 @@
 /*********************************************/
 html,
 body {
-	background: url("../images/AlbuquerqueBackgroundJPEG.jpg");
+	background: url("../images/AlbuquerqueBackgroundJPEG.jpg") no-repeat center center;
 	background-size: cover;
+	background-attachment: fixed;
+	color: #000;
 }
 
 /**********************************************
